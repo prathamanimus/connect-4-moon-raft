@@ -8,6 +8,7 @@ When transitioning from the root of the tree to a specific node, the algorithm e
 Files
 mcts.py: Contains the implementation of the Monte Carlo Tree Search algorithm.
 play.py: Allows you to run the program on the paper games website .
+
 grid.png: Required for OpenCV to identify the location of Connect 4 pieces on the website.
 
 Dependencies
